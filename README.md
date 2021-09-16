@@ -10,7 +10,6 @@
   <img align="center" alt="carlos-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="carlos-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="carlos-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="carlos-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="right" alt="carlos-avatar" height="135" src="https://cdn.discordapp.com/attachments/406160804308582403/878206737512030258/Webp.net-gifmaker.gif">
 </div>
   
